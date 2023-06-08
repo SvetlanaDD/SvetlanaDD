@@ -24,11 +24,13 @@ Java, Kotlin, Windows, SQLite, Spring, Gradle, Maven, Unittest, Moskito, Intelli
 
 ### Сертификаты Нетологии
 
-- JAVA
+- [JAVA](https://github.com/SvetlanaDD/SvetlanaDD/blob/main/certificate_JAVA.pdf)
 
-- Kotlin
+- [Kotlin](https://github.com/SvetlanaDD/SvetlanaDD/blob/main/certificate_Kotlin.pdf)
 
-- GIT
+- [Kotlin под Android](https://github.com/SvetlanaDD/SvetlanaDD/blob/main/certificate_KotlinAndroid.pdf) 
+
+- [GIT](https://github.com/SvetlanaDD/SvetlanaDD/blob/main/certificate_GIT.pdf)
 
 
 ### Контакты
