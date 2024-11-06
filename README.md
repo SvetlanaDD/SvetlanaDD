@@ -38,5 +38,3 @@ Java, Kotlin, Windows, SQLite, Spring, Gradle, Maven, Unittest, Moskito, Intelli
 +7 (903) 376-51-66
 
 asweet.lana@gmail.com
-
-telegram https://t.me/SvetlanaDudenko
